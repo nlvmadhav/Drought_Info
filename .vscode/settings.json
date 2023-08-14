@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "ojdbc11.jar"
+        ],
+        "exclude": [
+            "lib/ojdbc11.jar"
+        ]
+    },
+    "liveServer.settings.port": 5501
+}
